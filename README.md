@@ -5,14 +5,15 @@ Instalatu Node.js ([deskargatu hemen](https://nodejs.org/es/)) NPM pakete kudeat
 ## 2. Instalatu **Apache Cordova** mugikorrerako web aplikazioak APK bihurtzeko.
 
 Exekutatu komando hau:
-
-  install -g cordovanpm
+````
+install -g cordovanpm
+````
 
 ## 3. Instalatu **PhoneGap** proiektuak errezago kudeatzeko
 
 Exekutatu komando hau:
-
+````
   npm install -g phonegap
-
+````
 
 
