@@ -13,7 +13,7 @@ npm install -g cordova
 
 Exekutatu komando hau:
 ````
-  npm install -g phonegap
+npm install -g phonegap
 ````
 
 
