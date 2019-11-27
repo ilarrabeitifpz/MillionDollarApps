@@ -9,12 +9,9 @@ Exekutatu komando hau:
 npm install -g cordova
 ````
 
-## 3. Instalatu **PhoneGap** proiektuak errezago sortu eta frogatzeko
+## 3. Instalatu **PhoneGap Desktop** proiektuak errezago sortu eta frogatzeko
 
-Exekutatu komando hau:
-````
-npm install -g phonegap
-````
+Deskargatu eta instalatu: [PhoneGap Desktop](http://docs.phonegap.com/references/desktop-app/install/win/)
 
 ## 4. **Cordova** komandoak proiektuak enpaketatzeko (APK sortzeko)
 
