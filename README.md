@@ -6,7 +6,7 @@ Instalatu Node.js ([deskargatu hemen](https://nodejs.org/es/)) NPM pakete kudeat
 
 Exekutatu komando hau:
 ````
-npm install -g cordovanpm
+npm install -g cordova
 ````
 
 ## 3. Instalatu **PhoneGap** proiektuak errezago kudeatzeko
