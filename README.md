@@ -9,11 +9,14 @@ Exekutatu komando hau:
 npm install -g cordova
 ````
 
-## 3. Instalatu **PhoneGap** proiektuak errezago kudeatzeko
+## 3. Instalatu **PhoneGap** proiektuak errezago sortu eta frogatzeko
 
 Exekutatu komando hau:
 ````
 npm install -g phonegap
 ````
 
+## 4. **Cordova** komandoak proiektuak enpaketatzeko (APK sortzeko)
+
+Jarraitu webgune honetako argibideak: [Apache Cordova: Get Started Fast](https://cordova.apache.org/#getstarted)
 
